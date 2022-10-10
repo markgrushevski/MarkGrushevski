@@ -5,7 +5,13 @@
   📫 How to reach me: dewgrushevski@gmail.com
   </p>
 </div>
+<hr/>
+На данный момент разрабатываю несколько своих проектов на гитхаб. Занимаюсь в основном фронтенд разработкой (к примеру: ui, бизнес логика, асинхронные запросы) на React JS.
 
+Мой гитхаб с проектами: https://github.com/MarkGrushevski
+
+Что я использую: React, React Router, Redux Toolkit, JavaScript, CSS, SCSS, HTML, Figma, Firebase, PostgresSQL, MongoDB, Git, Webpack, Postman
+<hr/>
 # Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
