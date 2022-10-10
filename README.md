@@ -7,7 +7,6 @@
 </div>
 <hr/>
 На данный момент разрабатываю несколько своих проектов на гитхаб. Занимаюсь в основном фронтенд разработкой (к примеру: ui, бизнес логика, асинхронные запросы) на React JS.
-Что я использую: React, React Router, Redux Toolkit, JavaScript, CSS, SCSS, HTML, Figma, Firebase, PostgresSQL, MongoDB, Git, Webpack, Postman
 <hr/>
 # Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
