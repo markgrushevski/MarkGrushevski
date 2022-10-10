@@ -7,9 +7,6 @@
 </div>
 <hr/>
 На данный момент разрабатываю несколько своих проектов на гитхаб. Занимаюсь в основном фронтенд разработкой (к примеру: ui, бизнес логика, асинхронные запросы) на React JS.
-
-Мой гитхаб с проектами: https://github.com/MarkGrushevski
-
 Что я использую: React, React Router, Redux Toolkit, JavaScript, CSS, SCSS, HTML, Figma, Firebase, PostgresSQL, MongoDB, Git, Webpack, Postman
 <hr/>
 # Tech Stack
