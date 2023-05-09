@@ -1,11 +1,11 @@
 <div align="center">
-  <h1> Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Leonid </h1>
+  <h1>Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Leonid</h1>
   <p>
-  🔭 I’m currently working as lead javascript developer in geographic information systems departament of Surgut<br/><br/>
-  📫 How to reach me: dewgrushevski@gmail.com
+    🔭 I’m currently working as lead javascript developer in geographic information systems departament of Surgut<br/><br/>
+    📫 How to reach me: dewgrushevski@gmail.com
   </p>
-  
-  
+
+
   # Tech Stack
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -18,5 +18,5 @@
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
   ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-  
+
 </div>
