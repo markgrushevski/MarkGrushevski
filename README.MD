@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Leonid</h1>
   <p>
-    🔭 I’m currently working as lead javascript developer in geographic information systems departament of Surgut<br/><br/>
+    🔭 I’m currently working as javascript developer in geographic information systems departament of Surgut<br/><br/>
     📫 How to reach me: dewgrushevski@gmail.com
   </p>
 
