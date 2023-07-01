@@ -2,7 +2,7 @@
   <h1>Hi, i am 👋🏻 Leonid</h1>
   <p>
     💼 I’m currently working as javascript engineer in geographic information systems departament of Surgut<br/><br/>
-    📫 How to reach me: [dewgrushevski@gmail.com](mailto:dewgrushevski@gmail.com)
+    📫 How to reach me: ![dewgrushevski@gmail.com](mailto:dewgrushevski@gmail.com)
   </p>
 
 
