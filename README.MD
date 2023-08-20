@@ -1,12 +1,14 @@
 <div align="center">
   <h1>Hi, i am 👋🏻 Leonid</h1>
   <p>
-    💼 I’m currently working as javascript engineer in geographic information systems departament of Surgut<br/><br/>
+    💼 I’m experienced vue frontend developer<br/><br/>
     📫 How to reach me: <a href="mailto:dewgrushevski@gmail.com">dewgrushevski@gmail.com</a>
   </p>
 
 
   # Tech Stack
+
+  ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
