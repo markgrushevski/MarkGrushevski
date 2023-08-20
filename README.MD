@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, i am 👋🏻 Leonid</h1>
   <p>
-    💼 I’m experienced vue frontend developer<br/><br/>
+    💼 I’m Vue Frontend Developer<br/><br/>
     📫 How to reach me: <a href="mailto:dewgrushevski@gmail.com">dewgrushevski@gmail.com</a>
   </p>
 
