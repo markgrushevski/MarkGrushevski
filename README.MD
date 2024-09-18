@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hello there</h1>
+  <h1>Hi, i am 👋🏻 Leonid</h1>
 
   <p>
     💼 Frontend Developer<br/><br/>
