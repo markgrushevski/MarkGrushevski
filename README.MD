@@ -1,5 +1,7 @@
 <div align="center">
-  <h1>Hi, i am 👋🏻 Leonid</h1>
+
+  <h1>Hello there</h1>
+
   <p>
     💼 Frontend Developer<br/><br/>
     📫 How to reach me: <a href="mailto:dewgrushevski@gmail.com">dewgrushevski@gmail.com</a>
