@@ -5,7 +5,6 @@
   </div>
   <br/>
   <br/>
-  <br/>
   <h3>my kit</h3>
   <img width="80%" src="./readme.svg" alt="My technology stack"/>
 </div>
